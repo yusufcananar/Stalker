@@ -1,2 +1,2 @@
 # Stalker
-Drone Detection and Tracking with Mask R-CNN and pytorch
+Drone Detection and Tracking with SSD_Lite Mobilenet_v2 and pytorch
